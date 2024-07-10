@@ -24,7 +24,6 @@ type User = {
   };
 };
 
-// 2
 
 interface Address {
   city: string;
